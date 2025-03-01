@@ -85,6 +85,7 @@ function goTown(){
 
 function goStore(){
     update(locations[1]);
+    console.log("You must be in the store");
   
 }
 
