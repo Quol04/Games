@@ -26,3 +26,24 @@
 #pokemonSprite:hover{
     box-shadow: none;
 }
+
+#pokemonName{
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #383535;
+    padding: 1rem;
+    position: relative;
+    margin: 1rem;
+}
+
+button{
+    padding: 1rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #fff;
+    background-color: #2a5745;
+    border: none;
+    border-radius: 1rem;
+    cursor: pointer;
+    box-shadow: 3px 6px 1px rgba(42, 87, 69, 0.2);
+}
