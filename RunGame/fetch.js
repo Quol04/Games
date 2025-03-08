@@ -11,13 +11,12 @@ async function fetchData() {
         }
         const data = await response.json();
         console.log(data);
-        // console.log(powerfulPoke);
         const pokemonSprite= data.sprites.front_default;
         const imgElement =document.getElementById("pokemonSprite");
         imgElement.src= pokemonSprite;
 
         imgElement.style.display="block";
-        // imgElement.style.fontSize="500px";
+        
 
     }
     catch(error){
