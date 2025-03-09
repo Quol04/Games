@@ -30,7 +30,6 @@ async function fetchData() {
             typeElement.style.height="200px";
             typeElement.style.border="1px solid black";
             typeElement.style.borderRadius="3rem";
-            // typeElement.style.marginTop="5px";
             typeElement.style.marginBottom="50px";
             typeElement.style.boxShadow="5px 5px 5px black";
             typeElement.style.backgroundColor="white";
