@@ -23,7 +23,6 @@ body{
     border-radius: 2rem;
     margin: 10px;
     display: none;
-    /* border: 1px solid #000; */
     cursor: pointer;
     box-shadow: 3px 6px 1px rgba(42, 87, 69, 0.2);
 
