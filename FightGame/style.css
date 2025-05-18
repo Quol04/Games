@@ -15,20 +15,20 @@ body{
     color: white;
 }
 #controls{
-    border: 1px solid black;
+    border: 1px solid rgb(64, 58, 58);
     padding: 5px;
 }
 #stats{
-    border: 1px solid black;
+    border: 1px solid rgb(60, 54, 54);
     padding: 5px;
-    color: black;
+    color: rgb(57, 50, 50);
 }
 #monsterStats{
     display: none;
     border: 1px solid black;
     padding: 5px;
     color: white;
-    background-color: red;
+    background-color: rgb(205, 12, 12);
 }
 .stat{
     padding-right: 10px;
